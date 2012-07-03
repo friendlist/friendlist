@@ -3,3 +3,9 @@ config/database.php
 app/tmp/*
 app/config/database.php
 !empty
+*.log
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+myapp_cake_core_cake_console_
